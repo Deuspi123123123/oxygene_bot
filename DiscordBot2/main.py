@@ -85,9 +85,10 @@ async def main():
 
         await load_cogs()
 
-        await bot.start("DISCORD_TOKEN")
+        await bot.start(TOKEN)
 
 
 
 asyncio.run(main())
+
 
