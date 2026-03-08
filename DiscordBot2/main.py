@@ -16,7 +16,7 @@ bot = commands.Bot(
 command_attempts = {}
 command_cooldowns = {}
 
-TOKEN = os.getenv("TOKEN")
+await bot.start(TOKEN)
 
 
 @bot.event
@@ -90,6 +90,7 @@ async def main():
 
 
 asyncio.run(main())
+
 
 
 
