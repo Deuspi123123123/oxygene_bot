@@ -1,0 +1,606 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PERMISSIONS O²
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌪️ | Tempête
+ID : 1478865837396852837
+
+Commandes
+=find
+=pic
+
+Click
+aucun
+
+Accès
+salons publics
+
+Limites
+aucune
+
+────────────────
+
+❄️ | Neige
+ID : 1478867068559298612
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+
+Click
+aucun
+
+Accès
+salons publics
+
+Limites
+tempmute max 20 minutes
+
+────────────────
+
+🌱 | Vie
+ID : 1479030695190859776
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+
+Click
+aucun
+
+Accès
+salons publics
+
+Limites
+tempmute max 45 minutes
+
+────────────────
+
+💐 | Fleures
+ID : 1479031903477563445
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+
+Click
+aucun
+
+Accès
+salons publics
+
+Limites
+tempmute sans limite
+
+────────────────
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MODÉRATION O²
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌙 | Croissant de lune
+ID : 1479034267542753350
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+
+Click
+suppression messages
+
+Accès
+salons publics
+salon add tchat
+vocal house 1
+
+Limites
+suppression messages 30 par heure
+
+────────────────
+
+✨ | Constellation
+ID : 1479034365299392522
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+
+Click
+suppression messages
+
+Accès
+salons publics
+salon add tchat
+vocal house 1
+
+Limites
+suppression messages 80 par 2 heures
+
+────────────────
+
+💫 | Vœu
+ID : 1479034466377924648
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+
+Click
+suppression messages
+
+Accès
+salons publics
+salon add tchat
+vocal house 1
+
+Limites
+suppression messages 50 par heure
+
+────────────────
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONTRIBUTION NIVEAU I
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<:O2_Beonze:1480026906282950707> | Comet
+ID : 1479193092669050891
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+
+Click
+suppression messages
+déplacement vocal
+
+Accès
+salons publics
+vocal house 2
+vocal house 3
+
+Limites
+suppression messages 50 par heure
+déplacement vocal 2 par 10 minutes
+
+────────────────
+
+<:O2_Beonze:1480026906282950707> | Lune
+ID : 1479192607497130126
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+=vc
+=stats
+=help
+=member
+=user
+
+Click
+suppression messages
+déplacement vocal
+
+Accès
+salons publics
+vocaux membres
+vocal house 2
+vocal house 3
+
+Limites
+suppression messages 50 par heure
+déplacement vocal 2 par 10 minutes
+
+────────────────
+
+<:O2_Beonze:1480026906282950707> | Soleil
+ID : 1479192859646234756
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+=vc
+=stats
+=help
+=member
+=user
+/rank
+/rankup
+/derank
+
+Click
+suppression messages
+déplacement vocal
+
+Accès
+salons publics
+vocaux membres
+vocal house 2
+vocal house 3
+
+Limites
+suppression messages 50 par heure
+déplacement vocal 2 par 10 minutes
+rank max perm III
+
+────────────────
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONTRIBUTION NIVEAU II
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<:O2_Silver:1480027024046428250> | Saturne
+ID : 1478166498437496933
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+=vc
+=stats
+=help
+=member
+=user
+/rank
+/rankup
+/derank
+=warn
+
+Click
+suppression messages
+déplacement vocal
+mute vocal
+mute casque
+
+Accès
+salons publics
+vocaux membres
+house 1
+house 2
+house 3
+
+Limites
+mute vocal 4 par 10 minutes
+mute casque 4 par 10 minutes
+
+────────────────
+
+<:O2_Silver:1480027024046428250> | Eclipse
+ID : 1478166348659036281
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+=vc
+=stats
+=help
+=member
+=user
+/rank
+/rankup
+/derank
+=warn
+
+Click
+suppression messages
+déplacement vocal
+mute vocal
+mute casque
+
+Accès
+salons publics
+vocaux membres
+house 1
+house 2
+house 3
+
+Limites
+mute vocal 5 par 10 minutes
+mute casque 5 par 10 minutes
+
+────────────────
+
+<:O2_gold:1480027129944215603> | Crown
+ID : 1479194975706284153
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+=vc
+=stats
+=help
+=member
+=user
+/rank
+/rankup
+/derank
+=warn
+=join
+/to
+/unto
+
+Click
+suppression messages
+déplacement vocal
+mute vocal
+mute casque
+
+Accès
+salons publics
+vocaux membres
+house 1
+house 2
+house 3
+vocaux privés
+
+Limites
+to unto 5 par heure
+
+────────────────
+
+<:O2_gold:1480027129944215603> | Blackhole
+ID : 1479834901619544125
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+=vc
+=stats
+=help
+=member
+=user
+/rank
+/rankup
+/derank
+=warn
+=join
+/to
+/unto
+=ban
+
+Click
+suppression messages
+déplacement vocal
+mute vocal
+mute casque
+déconnexion vocal
+
+Accès
+salons publics
+vocaux membres
+house 1
+house 2
+house 3
+vocaux privés
+
+Limites
+ban 3 par heure
+mute vocal 5 par 10 minutes
+mute casque 5 par 10 minutes
+
+────────────────
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONTRIBUTION NIVEAU III
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<:O2_gold:1480027129944215603> | ADMIN
+ID : 1479195106237219048
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+=vc
+=stats
+=help
+=member
+=user
+/rank
+/rankup
+/derank
+=warn
+=join
+/to
+/unto
+=ban
+=clear
+=mutelist
+=blr
+=unblr
+
+Click
+suppression messages
+mute vocal
+mute casque
+ban
+timeout
+
+Accès
+salons publics
+vocaux membres
+house
+logs serveur
+salons admin
+
+Limites
+clear 2 par 20 minutes
+ban 2 par heure
+
+────────────────
+
+<:O2_gold:1480027129944215603> | BOT = BOT
+ID : 1479203075775266957
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+=vc
+=stats
+=help
+=member
+=user
+/rank
+/rankup
+/derank
+=warn
+=join
+/to
+/unto
+=ban
+=clear
+=mutelist
+=blr
+=unblr
+=slowmode
+=lock
+=addemoji
+
+Click
+suppression messages
+mute vocal
+mute casque
+ban
+timeout
+
+Accès
+salons publics
+vocaux membres
+house
+salons bot
+salons admin
+
+Limites
+addemoji 1 par 10 heures
+
+────────────────
+
+<:O2_gold:1480027129944215603> | WORLD
+ID : 1479194811201355830
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+=vc
+=stats
+=help
+=member
+=user
+/rank
+/rankup
+/derank
+=warn
+=join
+/to
+/unto
+=ban
+=clear
+=mutelist
+=blr
+=unblr
+=slowmode
+=lock
+=addemoji
+=derank
+
+Click
+suppression messages
+mute vocal
+mute casque
+ban
+timeout
+
+Accès
+tous salons
+
+Limites
+ban 5 par heure
+
+────────────────
+
+<:O2_gold:1480027129944215603> | Créateur
+ID : 1478166242593472514
+
+Commandes
+=find
+=pic
+=snipe
+/tempmute
+/unmute
+=vc
+=stats
+=help
+=member
+=user
+/rank
+/rankup
+/derank
+=warn
+=join
+/to
+/unto
+=ban
+=clear
+=mutelist
+=blr
+=unblr
+=slowmode
+=lock
+=addemoji
+=derank
+=lockname
+=bl
+=unbl
+
+Click
+tous
+
+Accès
+tous salons
+
+Limites
+aucune
