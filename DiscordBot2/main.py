@@ -85,7 +85,8 @@ async def main():
 
         await load_cogs()
 
-        await os.getenv("DISCORD_TOKEN")
+        os.getenv("DISCORD_TOKEN")
+
 
 
 asyncio.run(main())
