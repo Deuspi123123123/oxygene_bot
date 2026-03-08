@@ -16,7 +16,7 @@ bot = commands.Bot(
 command_attempts = {}
 command_cooldowns = {}
 
-await bot.start(TOKEN)
+TOKEN = os.getenv("TOKEN")
 
 
 @bot.event
@@ -85,13 +85,9 @@ async def main():
 
         await load_cogs()
 
-        await bot.start("TOKEN")
+        await bot.start(TOKEN)
 
 
+if __name__ == "__main__":
 
-asyncio.run(main())
-
-
-
-
-
+    asyncio.run(main())
